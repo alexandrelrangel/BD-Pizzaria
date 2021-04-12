@@ -1,3 +1,5 @@
+-- https://saopaulopizzas.com.br/quem_somos
+
 CREATE DATABASE PIZZARIA;
 
 DROP TABLE IF EXISTS PIZZARIA.CLIENTE;

@@ -1,3 +1,5 @@
+-- https://saopaulopizzas.com.br/quem_somos
+
 USE PIZZARIA;
 
 DROP TABLE IF EXISTS PIZZARIA.INGREDIENTE;
